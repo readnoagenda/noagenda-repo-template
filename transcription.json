@@ -1,0 +1,27 @@
+{
+    "site_name": "Read No Agenda",
+    "site_url": "http://readnoagenda.com/",
+    "title": "No Agenda Episode %(episode)s: \"%(title)s\" (%(airdate)s)",
+    "links": [
+        {
+            "url": "http://www.noagendashow.com/", 
+            "title": "No Agenda Show"
+        }, 
+        {
+            "url": "http://%(episode)s.nashownotes.com/", 
+            "title": "Episode %(episode)s Shownotes"
+        }, 
+        {
+            "url": "http://readnoagenda.com/wiki/Style_guidelines", 
+            "title": "Style Guidelines"
+        }, 
+     	{
+	    "url": "http://readnoagenda.com/stats/transcript_%(episode)s.readnoagenda.com.html",
+	    "title": "Transcript Stats"
+	},
+        {
+            "url": "http://dvorak.org/na/", 
+            "title": "DONATE to No Agenda"
+        }
+    ]
+}

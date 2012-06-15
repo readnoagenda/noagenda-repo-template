@@ -1,0 +1,6 @@
+${contributions} recent contribution${"" if contributions == 1 else "s"} to http://${request.host}/ - ${author_name} is at it again! #noagenda #itm
+Shout out to ${author_name} for ${contributions} recent contribution${"" if contributions == 1 else "s"} to http://${request.host}/ #noagenda #itm
+${author_name} is a good little slave who made ${contributions} recent contribution${"" if contributions == 1 else "s"} to http://${request.host}/ #noagenda #itm
+http://${request.host}/, brought to you by ${author_name} who made ${contributions} recent contribution${"" if contributions == 1 else "s"} #noagenda #itm
+${author_name} helped the deaf by making ${contributions} recent contribution${"" if contributions == 1 else "s"} to http://${request.host}/ #noagenda #itm
+${author_name}, thanks for ${contributions} recent contribution${"" if contributions == 1 else "s"} to http://${request.host}/ - Don't stop now! #noagenda #itm

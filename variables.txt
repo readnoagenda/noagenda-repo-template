@@ -1,0 +1,3 @@
+episode; Episode number
+airdate; Air date (YYYY-MM-DD)
+title; Episode title

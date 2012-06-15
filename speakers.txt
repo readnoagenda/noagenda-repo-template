@@ -1,0 +1,10 @@
+ac; Adam Curry
+jd; John C. Dvorak
+
+j; Jingle
+x; SFX
+
+c; Clip
+c1; Clip (Speaker 1)
+c2; Clip (Speaker 2)
+c3; Clip (Speaker 3)

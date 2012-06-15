@@ -1,0 +1,17 @@
+/* NA-specific coloring
+by Nigel Ewan */
+
+.snippet .speaker-ac{color:#80331a;}
+.snippet .speaker-jd{color:#335511;}
+
+/* sfx and jingles */
+.speaker-x,.speaker-j{font-style:italic;visibility:visible;display:inline-block;}
+dd.speaker-x,dd.speaker-j{margin-left:0;text-indent:0;}
+
+.snippet *[class^="speaker-c"]{color:#663377;font-style:italic;}
+
+/* for changing header font */
+#siteheader .headertext{font-size:16px;font-family:"Nobel","FuturaStd","Futura",sans-serif;}
+
+/* for changing header color */
+#siteheader{background:#cc0000;}
